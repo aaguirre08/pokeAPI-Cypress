@@ -1,0 +1,24 @@
+{
+  "name": "pokeapi-cypress",
+  "version": "1.0.0",
+  "description": "API testing with pokemons",
+  "main": "cypress.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^12.2.0"
+  },
+  "scripts": {
+    "cy:run": "cypress run --record",
+    "cy:open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaguirre08/pokeAPI-Cypress.git"
+  },
+  "author": "Angélica Aguirre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaguirre08/pokeAPI-Cypress/issues"
+  },
+  "homepage": "https://github.com/aaguirre08/pokeAPI-Cypress#readme"
+}
